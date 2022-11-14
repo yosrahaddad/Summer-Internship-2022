@@ -1,0 +1,21 @@
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.FileSystemTask.dll
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ScriptTask.dll
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SQLTask.dll
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.SQLTaskConnectionsWrap.dll
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BI TOOL KIT.exe.config
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BI TOOL KIT.exe.manifest
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BI TOOL KIT.application
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BI TOOL KIT.exe
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BI TOOL KIT.pdb
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BI TOOL KIT.exe.manifest
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BI TOOL KIT.application
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BI TOOL KIT.exe
+C:\Users\LENOVO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BI TOOL KIT.pdb
